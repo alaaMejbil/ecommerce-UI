@@ -4,13 +4,11 @@ A new Flutter project.
 
 ## Getting Started
 
-![photo_2021-09-23_14-01-23](https://user-images.githubusercontent.com/42090580/134498274-ccf344fd-7321-40ce-83ba-ee2a92537c0f.jpg)
-
  <img src="https://user-images.githubusercontent.com/42090580/134498274-ccf344fd-7321-40ce-83ba-ee2a92537c0f.jpg" width="400" height="800">
 
-![photo_2021-09-23_14-01-27](https://user-images.githubusercontent.com/42090580/134498297-d50172ef-57c2-4da2-b41c-09f6225507e9.jpg)
+<img src="https://user-images.githubusercontent.com/42090580/134498297-d50172ef-57c2-4da2-b41c-09f6225507e9.jpg" width="400" height="800">
 
-![photo_2021-09-23_14-01-30](https://user-images.githubusercontent.com/42090580/134498300-cc9d0d6a-2d88-4ef1-83f7-3b3112921dde.jpg)
+<img src="https://user-images.githubusercontent.com/42090580/134498300-cc9d0d6a-2d88-4ef1-83f7-3b3112921dde.jpg" width="400" height="800">
 
 This project is a starting point for a Flutter application.
 
