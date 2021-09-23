@@ -6,7 +6,7 @@ A new Flutter project.
 
 ![photo_2021-09-23_14-01-23](https://user-images.githubusercontent.com/42090580/134498274-ccf344fd-7321-40ce-83ba-ee2a92537c0f.jpg)
 
- <img src="https://user-images.githubusercontent.com/42090580/134498274-ccf344fd-7321-40ce-83ba-ee2a92537c0f.jpg" width="100" height="100">
+ <img src="https://user-images.githubusercontent.com/42090580/134498274-ccf344fd-7321-40ce-83ba-ee2a92537c0f.jpg" width="400" height="400">
 
 ![photo_2021-09-23_14-01-27](https://user-images.githubusercontent.com/42090580/134498297-d50172ef-57c2-4da2-b41c-09f6225507e9.jpg)
 
